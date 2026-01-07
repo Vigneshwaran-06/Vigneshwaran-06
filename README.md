@@ -1,5 +1,7 @@
 # 💫 About Me:
-🔭 I’m currently working on: Full-stack development, mainly focusing on backend, and frontend using HTML, CSS, and JavaScript.<br>🌱 I’m currently learning: Advanced AI techniques, full-stack development, and AR-based educational apps.<br>👯 I’m looking to collaborate on: Web development, AI, and machine learning projects.<br>🤔 I’m looking for help with: Ideas for complex and unique project implementations for hackathons and competitions.<br>💬 Ask me about: AI, machine learning, educational games, and software development.<br>📫 How to reach me: vigneshwaranv.aiml2023@citchennai.net<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I can train a machine learning model to recognize my favorite snacks!
+Backend Developer and Application Creator with a strong interest in building scalable, reliable, and intelligent software systems. I focus on backend development, API design, database management, and integrating AI and machine learning into real-world applications.
+Currently working on backend-heavy applications and AI-powered systems, with hands-on experience in designing RESTful APIs, handling data efficiently, and building production-ready solutions.Learning advanced AI/ML concepts, system design, cloud-ready backend architectures, and AR-based educational applications to create impactful and future-ready software.
+Open to collaborating on backend development, AI and machine learning projects, intelligent web and app solutions, and hackathon-driven problem solving!
 
 
 ## 🌐 Socials:
