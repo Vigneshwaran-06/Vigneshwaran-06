@@ -1,10 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00C4CC&height=180&section=header&text=Hi%20there,%20I'm%20Vigneshwaran%20V%20👋&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%" />
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00C4CC&center=true&vCenter=true&width=650&lines=Backend+Developer+%26+Application+Creator;Building+scalable%2C+reliable+backend+systems;Integrating+AI+%2F+ML+into+real-world+apps;Always+exploring+system+design+%26+cloud+architecture" />
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:2C5364&height=140&text=%3C%20Vigneshwaran%20V%20%2F%3E&fontSize=36&fontColor=ffffff&fontAlign=50&fontAlignY=55&desc=Backend%20Developer%20%7C%20Application%20Creator&descSize=16&descAlign=50&descAlignY=80&descColor=8FD3E8" width="100%" />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vigneshwaran77/">
@@ -15,15 +9,15 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="400" />
-</p>
+### 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲
 
-- 🔭 I focus on **backend development, API design, and database management**, building RESTful APIs and production-ready systems
-- 🤖 I integrate **AI/ML into real-world applications** — from intelligent data pipelines to smart web & mobile solutions
-- 📚 Currently deepening my skills in **advanced AI/ML, system design, cloud-ready architectures, and AR-based educational apps**
-- 🤝 Open to collaborating on **backend systems, AI/ML projects, intelligent applications, and hackathons**
-- 💬 Ask me about **APIs, backend architecture, or applying ML to production systems**
+I'm a **backend developer and application creator** with a strong focus on building scalable, reliable, and intelligent software systems. My work centers on **API design, database management, and system architecture**, and I bring the same rigor to integrating **AI and machine learning** into production-grade applications — not as an add-on, but as a core part of how the system thinks and scales.
+
+Right now, I'm deepening my expertise in **advanced AI/ML, distributed system design, and cloud-native architecture**, alongside exploring **AR-based educational applications** as a way to merge intelligent software with immersive learning experiences.
+
+I'm always open to collaborating on **backend systems, AI/ML-driven products, and hackathon-born ideas** — if you're building something ambitious, let's talk.
+
+
 
 ---
 
