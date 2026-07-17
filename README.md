@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Vigneshwaran V</h1>
-<h3 align="center">Backend Developer | AI/ML Systems Builder | API & Cloud Architecture Enthusiast</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Hi%20There!%20I'm%20Vigneshwaran%20%F0%9F%91%8B&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20AI%2FML%20Systems%20Builder%20%7C%20API%20%26%20Cloud%20Architecture&descAlignY=58&descSize=18" alt="header banner" />
+
+<h3 align="center">🚀 Turning ideas into scalable, intelligent software systems 🚀</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/vigneshwaran77">
@@ -102,5 +103,7 @@
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
   </a>
 </p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="footer banner" />
 
 <!-- Proudly crafted with ❤️ -->
