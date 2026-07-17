@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F2027,50:2C5364,100:0F52BA&amp;height=260&amp;section=header&amp;text=Hi%20There!%20I'm%20Vigneshwaran%20%F0%9F%91%8B&amp;fontSize=42&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=36&amp;desc=Backend%20Developer%20%7C%20AI%2FML%20Systems%20Builder%20%7C%20API%20%26%20Cloud%20Architecture&amp;descAlignY=58&amp;descSize=18&amp;descColor=E8EEF7" alt="header banner" />
+<img width="100%" src="./assets/header-banner.svg" alt="header banner" />
 
 <h3 align="center">🚀 Turning ideas into scalable, intelligent software systems 🚀</h3>
 
@@ -33,25 +33,25 @@
     <td width="50%" valign="top">
       <h3>🕸️ <a href="https://github.com/WebWeaver">WebWeaver-App</a></h3>
       <p>
-        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&amp;logo=langchain&amp;logoColor=white" />
         <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square" />
-        <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi" />
+        <img src="https://img.shields.io/badge/React-20232a?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&amp;logo=fastapi" />
       </p>
       <a href="https://github.com/WebWeaver">
-        <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" />
       </a>
     </td>
     <td width="50%" valign="top">
       <h3>🎓 <a href="https://github.com/Saas-Converso-App">SaaS-Converso-App</a></h3>
       <p>
-        <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
-        <img src="https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white" />
+        <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&amp;logo=next.js&amp;logoColor=white" />
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&amp;logo=supabase&amp;logoColor=white" />
+        <img src="https://img.shields.io/badge/Stripe-008CDD?style=flat-square&amp;logo=stripe&amp;logoColor=white" />
         <img src="https://img.shields.io/badge/Clerk-6C47FF?style=flat-square" />
       </p>
       <a href="https://github.com/Saas-Converso-App">
-        <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" />
       </a>
     </td>
   </tr>
@@ -59,13 +59,13 @@
     <td width="50%" valign="top">
       <h3>🌱 <a href="https://github.com/TerraScan">TerraScan</a></h3>
       <p>
-        <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
-        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-        <img src="https://img.shields.io/badge/OpenCV-white?style=flat-square&logo=opencv" />
-        <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&amp;logo=python&amp;logoColor=ffdd54" />
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&amp;logo=flask&amp;logoColor=white" />
+        <img src="https://img.shields.io/badge/OpenCV-white?style=flat-square&amp;logo=opencv" />
+        <img src="https://img.shields.io/badge/React-20232a?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" />
       </p>
       <a href="https://github.com/TerraScan">
-        <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" />
       </a>
     </td>
     <td width="50%" valign="top"></td>
