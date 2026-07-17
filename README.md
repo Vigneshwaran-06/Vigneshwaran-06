@@ -89,20 +89,9 @@ I'm always open to collaborating on **backend systems, AI/ML-driven products, an
 <img src="https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white" />
 </p>
 
----
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Vigneshwaran77&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vigneshwaran77&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vigneshwaran77&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 <p align="center">
   <i>💡 Let's build something intelligent together — reach out via email or LinkedIn!</i>
