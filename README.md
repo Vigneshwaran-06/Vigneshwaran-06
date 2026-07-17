@@ -1,167 +1,106 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Vigneshwaran
+<h1 align="center">Hi 👋, I'm Vigneshwaran V</h1>
+<h3 align="center">Backend Developer | AI/ML Systems Builder | API & Cloud Architecture Enthusiast</h3>
 
 <p align="center">
-
-Backend Developer • AI/ML Engineer • Full Stack Developer
-
-Building scalable backend systems and AI-powered applications.
-
+  <a href="https://linkedin.com/in/vigneshwaran77">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+API+Design;AI+%2F+ML+Integration+Enthusiast;Building+Scalable+Cloud-Ready+Systems;Open+to+Collaboration+%26+Hackathons" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1200&color=22D3EE&center=true&vCenter=true&width=700&lines=Backend+Developer;AI+%26+Machine+Learning+Engineer;Full+Stack+Developer;Open+Source+Contributor;Building+Production+Ready+Applications"/>
-
-</p>
-
----
-
-# 💫 About Me
-
-Backend Developer passionate about building scalable software, REST APIs, cloud-ready architectures, and AI-powered applications.
-
-Currently exploring:
-
-- Backend System Design
-- Machine Learning
-- Cloud Native Applications
-- AI Integration
-- AR Based Educational Applications
-
-I enjoy solving real-world problems through software and collaborating on impactful open-source projects.
-
----
-
-# 🚀 Current Focus
-
-- Building scalable backend architectures
-
-- AI & Machine Learning
-
-- FastAPI & Node.js
-
-- Cloud-ready applications
-
-- Open Source
-
----
-
-# ⚡ Tech Stack
-
-## Languages
-
-![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk)
-![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![Swift](https://img.shields.io/badge/Swift-black?style=for-the-badge&logo=swift)
-
-## Backend
-
-![NodeJS](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
-![FastAPI](https://img.shields.io/badge/FastAPI-black?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
-
-## Frontend
-
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![NextJS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-black?style=for-the-badge&logo=tailwindcss)
-![Flutter](https://img.shields.io/badge/Flutter-black?style=for-the-badge&logo=flutter)
-
-## AI / ML
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-black?style=for-the-badge&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/PyTorch-black?style=for-the-badge&logo=pytorch)
-![OpenCV](https://img.shields.io/badge/OpenCV-black?style=for-the-badge&logo=opencv)
-![Scikit Learn](https://img.shields.io/badge/ScikitLearn-black?style=for-the-badge&logo=scikitlearn)
-
-## Database
-
-![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)
-![SQLite](https://img.shields.io/badge/SQLite-black?style=for-the-badge&logo=sqlite)
-![Supabase](https://img.shields.io/badge/Supabase-black?style=for-the-badge&logo=supabase)
-
-## Tools
-
-![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman)
-![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma)
-
----
-
-# 🌟 Featured Projects
-
-### 🚀 Belt Tension Analysis
-
-Industrial engineering web application with automated calculations and report generation.
-
-### 🤖 Oil Seal Leakage Detection
-
-YOLO + OpenCV based Machine Learning solution for industrial defect detection.
-
-### 🌱 Soil Fertility Analyzer
-
-Machine Learning powered crop recommendation system.
-
-### 🚘 License Plate Recognition
-
-Real-time OpenCV + Deep Learning based ANPR solution.
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Vigneshwaran-06&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vigneshwaran-06&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://komarev.com/ghpvc/?username=Vigneshwaran77&label=Profile%20Views&color=2E9EF7&style=flat" alt="profile views" />
+  <a href="https://linkedin.com/in/vigneshwaran77"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:vigneshwaranvenkatesanm@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+### 💫 About Me
+
+- 🔭 Backend Developer & Application Creator building **scalable, reliable, and intelligent** software systems
+- ⚙️ Focused on **backend development, API design, database management**, and integrating **AI/ML** into production apps
+- 🧠 Currently exploring advanced AI/ML concepts, system design, cloud-native backend architectures, and AR-based educational applications
+- 🤝 Open to collaborating on **backend engineering, AI/ML projects, intelligent web/app solutions**, and **hackathons**
+- 📫 Reach me at **vigneshwaranvenkatesanm@gmail.com**
+
+---
+
+### 🚀 Featured Projects
+
+#### 🕸️ [WebWeaver-App](https://github.com/WebWeaver)
+**Stack:** LangChain · SearxNG · DuckDuckGo · ChromaDB · React.js · FastAPI
+
+- Architected a full-stack AI-powered web retrieval application with a **FastAPI REST backend**, **React.js frontend**, and **ChromaDB vector store** — achieving **98%+ content extraction success** and **sub-3s end-to-end response latency**
+- Implemented a **4-layer async scraping pipeline** with **OpenAI Ada-002 semantic embeddings**, query classification (**95%+ accuracy**), and resilient fallback mechanisms — improving context relevance by **40%** and sustaining **99.5% uptime**
+
+#### 🎓 [SaaS-Converso-App](https://github.com/Saas-Converso-App)
+**Stack:** Next.js · Supabase · PostgreSQL · Stripe · Vapi AI · Clerk · JavaScript · Tailwind CSS
+
+- Built a production-ready full-stack **LMS SaaS platform** with **Next.js App Router**, Node.js backend, and Supabase (PostgreSQL) — implementing **JWT-based authentication**, **role-based access control**, and **Stripe payment integration** supporting **500+ transactions**
+- Designed and consumed RESTful APIs across frontend and backend layers; integrated a **Vapi AI voice agent** for real-time learning sessions, increasing student engagement by **40%** while maintaining **99.9% uptime** on a scalable cloud architecture
+
+#### 🌱 [TerraScan](https://github.com/TerraScan)
+**Stack:** Python · Flask · React.js · OpenCV · NumPy · REST API
+
+- Developed a full-stack **soil fertility analysis platform** with a **Flask REST API backend** and React.js frontend — reducing analysis time by **60%** and improving pH, moisture, and nutrient detection accuracy by **30%** using CV and ML algorithms
+- Designed a modular, scalable backend architecture supporting diverse soil conditions across multiple geographic regions; implemented end-to-end data flow from image upload to structured API response
+
+---
+
+### 💻 Tech Stack
+
+**Languages**
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+**Backend & APIs**
+
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+
+**AI / ML & Data**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+
+**Databases & Cloud**
+
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Vigneshwaran77&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vigneshwaran77&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-<img src="https://streak-stats.demolab.com?user=Vigneshwaran-06&theme=tokyonight&hide_border=true"/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vigneshwaran77&theme=tokyonight&hide_border=true" alt="streak stats" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vigneshwaran77&theme=tokyo-night&hide_border=true" alt="activity graph" />
 </p>
 
 ---
 
-# 📈 Contribution Graph
+### 🌐 Connect With Me
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vigneshwaran-06&theme=tokyo-night&hide_border=true"/>
-
+  <a href="https://www.linkedin.com/in/vigneshwaran77/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:vigneshwaranvenkatesanm@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+  </a>
 </p>
 
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/vigneshwaran77/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:vigneshwaranvenkatesanm@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-
-⭐ Thanks for visiting my profile!
-
-</p>
+<!-- Proudly crafted with ❤️ -->
